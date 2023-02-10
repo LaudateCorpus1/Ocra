@@ -15,7 +15,7 @@
     "jquery": "^3.4.0",
     "pdfjs-dist": "^2.0.943",
     "popper.js": "^1.15.0",
-    "tesseract.js": "^1.0.14"
+    "tesseract.js": "^4.0.2"
   },
   "devDependencies": {
     "css-loader": "^2.1.1",
